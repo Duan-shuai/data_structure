@@ -1,0 +1,19 @@
+12 17
+a b c d e f g h i j k l
+a b 2
+b c 3
+c d 4
+d h 5
+h g 6
+g f 7
+f e 8
+e i 9
+i j 10
+j k 11
+k l 12
+l h 13
+a e 14
+b g 15
+c f 16
+j g 17
+f k 18
